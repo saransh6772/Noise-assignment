@@ -1,0 +1,16 @@
+Postman collection for testing apis
+https://lunar-crescent-495681.postman.co/workspace/My-Workspace~d7fcbb5d-8913-4991-881c-f87defefb640/collection/19905809-b5d40064-3e4b-434b-95da-a2efbe5ba861?action=share&creator=19905809
+
+If you want to add your own env add 
+MONGO_URI
+PORT
+JWT_SECRET
+
+api documentation
+https://www.notion.so/saransh-parikh/API-Documentation-b3f9695834d745cdbceb215479438b4e?pvs=4
+
+I have created 2 schemas one for user and one for records
+Essentially required api are at the top in the api documentation
+I have added cookies to ensure that only valid user can delete his record
+Added mutliple checkpoints to ensure proper handling of cases
+The data base cluster used was of MongoDB
