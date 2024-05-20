@@ -1,16 +1,16 @@
-Postman collection for testing apis
-https://lunar-crescent-495681.postman.co/workspace/My-Workspace~d7fcbb5d-8913-4991-881c-f87defefb640/collection/19905809-b5d40064-3e4b-434b-95da-a2efbe5ba861?action=share&creator=19905809
+Deployed backend on render : https://noise-assignment.onrender.com/
 
-If you want to add your own env add 
+Postman collection for testing APIs : https://lunar-crescent-495681.postman.co/workspace/My-Workspace~d7fcbb5d-8913-4991-881c-f87defefb640/collection/19905809-b5d40064-3e4b-434b-95da-a2efbe5ba861?action=share&creator=19905809
+
+If you want to add your env add 
 MONGO_URI
 PORT
 JWT_SECRET
 
-api documentation
-https://www.notion.so/saransh-parikh/API-Documentation-b3f9695834d745cdbceb215479438b4e?pvs=4
+API Documentation : https://www.notion.so/saransh-parikh/API-Documentation-b3f9695834d745cdbceb215479438b4e?pvs=4
 
-I have created 2 schemas one for user and one for records
-Essentially required api are at the top in the api documentation
-I have added cookies to ensure that only valid user can delete his record
-Added mutliple checkpoints to ensure proper handling of cases
-The data base cluster used was of MongoDB
+I have created 2 schemas, one for the user and one for records
+Essentially, the required APIs for the assessment are at the top of the API documentation
+I have added cookies to ensure that only a valid user can delete his record
+Added multiple checkpoints to ensure proper handling of cases
+The database cluster used was MongoDB
